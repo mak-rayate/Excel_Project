@@ -1,4 +1,4 @@
-! [## Excel_Project](https://images.app.goo.gl/uJxeKZWgTYR5C6M88)
+## Excel_Project ![alt text](http://url/to/img.png)
 
 It's a excel dashboard with problem statement solution. 
 
