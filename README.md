@@ -1,4 +1,5 @@
-## Excel_Project  
+![](excel.png)
+ 
 
 It's a excel dashboard with problem statement solution. 
 
